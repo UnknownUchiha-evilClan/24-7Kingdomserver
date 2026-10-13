@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kingdom-V0iE.aternos.me:64293",
+    "ip": "Kingdom-V0iE.aternos.me",
     "port": 64293,
     "version": "1.20.1",
     "try-creative": false
